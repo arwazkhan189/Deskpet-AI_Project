@@ -3,4 +3,4 @@ Desk Pet is an AI-assisted robotic companion that autonomously navigates a desk,
 
 Demo Video Link : <a href="https://drive.google.com/file/d/1oJGiJBE2QRctHG1adHTPK7ptVMqix7UX/view?usp=drive_link">Link</a>
 
-<img src='https://github.com/arwazkhan189/Deskpet-AI_Project/deskpet.jpg' alt='SS'>
+<img src='https://github.com/arwazkhan189/Deskpet-AI_Project/blob/main/deskpet.jpg?raw=true' alt='image'>
